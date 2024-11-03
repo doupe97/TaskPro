@@ -1,9 +1,9 @@
 # TaskPro
 
-### Beschreibung ###
-Das Projekt beinhaltet eine einfache iOS-App zur Aufgabenverwaltung.
+### Description ###
+The project includes a simple iOS app for task management.
 <br><br>
-Es wurden die folgenden Komponenten verwendet:
+The following components were used:
 - SwiftUI
 - UIKit
 - CoreData
